@@ -23,6 +23,18 @@ models by analyzing various property features.
 
 ---
 
+## 📂 Project Structure
+```
+house-price-prediction-ml/
+├── data/
+│   └── house_prices.csv
+├── notebooks/
+│   └── house_price_prediction_ml.ipynb
+├── README.md
+└── requirements.txt
+```
+---
+
 ## 🧠 Models Used
 
 - Linear Regression
